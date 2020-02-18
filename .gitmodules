@@ -1,3 +1,6 @@
 [submodule "privates/xero_commerce"]
 	path = privates/xero_commerce
 	url = https://github.com/darron1217/xero_commerce.git
+[submodule "privates/ohmysinger"]
+	path = privates/ohmysinger
+	url = https://github.com/darron1217/ohmysinger.git
